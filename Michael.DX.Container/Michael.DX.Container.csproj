@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="DevExpress.ExpressApp" Version="21.2.4" />
+		<PackageReference Include="DevExpress.ExpressApp.Xpo" Version="21.2.4" />
+		<PackageReference Include="DevExpress.Xpo" Version="21.2.4" />
+		<PackageReference Include="DryIoc" Version="4.8.8" />
+	</ItemGroup>
+</Project>
